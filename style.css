@@ -3,7 +3,7 @@
 }
 body {
     display: grid;
-    background: teal;
+    background: rgb(48, 45, 45);
     grid-template-columns: repeat(20, 80px);
     grid-template-rows: repeat(20, 50px);
 }
